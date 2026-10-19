@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Student Support Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1>🎓 Student Support Assistant</h1>
+                <p>Your AI-powered guide for academic and administrative questions</p>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <div class="sidebar-section">
+                    <h3>Quick Links</h3>
+                    <ul class="quick-links">
+                        <li><button class="quick-link-btn" onclick="searchFAQ()">📋 FAQs</button></li>
+                        <li><button class="quick-link-btn" onclick="searchRegulations()">📑 Regulations</button></li>
+                        <li><button class="quick-link-btn" onclick="searchSyllabus()">📚 Syllabus</button></li>
+                        <li><button class="quick-link-btn" onclick="clearChat()">🔄 Clear Chat</button></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Popular Topics</h3>
+                    <ul class="topics-list">
+                        <li><a href="#" onclick="askAbout('How do I register for courses?')">Course Registration</a></li>
+                        <li><a href="#" onclick="askAbout('What is the attendance policy?')">Attendance Policy</a></li>
+                        <li><a href="#" onclick="askAbout('How are grades calculated?')">Grading System</a></li>
+                        <li><a href="#" onclick="askAbout('What are the lab hours?')">Lab Hours</a></li>
+                        <li><a href="#" onclick="askAbout('How do I request a transcript?')">Transcript Request</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3>Session Info</h3>
+                    <div class="session-info">
+                        <p><small>Session ID: <span id="sessionId">Loading...</span></small></p>
+                        <p><small>Messages: <span id="messageCount">0</span></small></p>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Chat Area -->
+            <main class="chat-container">
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message assistant-message">
+                        <div class="message-content">
+                            <p>👋 Hello! I'm your Student Support Assistant. I can help you with:</p>
+                            <ul>
+                                <li>✅ Course registration and academic information</li>
+                                <li>✅ FAQ and general inquiries</li>
+                                <li>✅ College regulations and policies</li>
+                                <li>✅ Syllabus and course details</li>
+                                <li>✅ Library, lab, and campus services</li>
+                            </ul>
+                            <p>What would you like to know today?</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-input-area">
+                    <div class="input-container">
+                        <input 
+                            type="text" 
+                            id="userInput" 
+                            class="chat-input" 
+                            placeholder="Ask me anything about your college..."
+                            onkeypress="handleKeyPress(event)"
+                        >
+                        <button class="send-btn" onclick="sendMessage()">Send</button>
+                    </div>
+                    <div class="loading-indicator" id="loadingIndicator" style="display: none;">
+                        <span class="loader"></span> Processing...
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Suggestions Modal -->
+    <div class="modal" id="suggestionsModal">
+        <div class="modal-content">
+            <span class="close" onclick="closeSuggestions()">&times;</span>
+            <h2>Suggestions</h2>
+            <div id="suggestionsContainer"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
