@@ -7,7 +7,11 @@ A chatbot that answers students' college questions (registration, attendance, gr
 **Live demo:** `ADD LINK AFTER DEPLOYING`
 
 ## Screenshots
-`ADD 2-3 SCREENSHOTS HERE: chat answering a question, a related-topics answer, an out-of-scope question`
+Example
+<img width="1365" height="662" alt="image" src="https://github.com/user-attachments/assets/4a3953f7-f61d-431f-aa2a-dbff3d4e6c82" />
+<img width="1365" height="686" alt="image" src="https://github.com/user-attachments/assets/9331b3cf-1b33-4597-ab57-ac6fa72d2058" />
+
+
 
 ## What it does
 - Understands questions in the student's own words ("How many days of class can I miss?" finds the Attendance Policy)
