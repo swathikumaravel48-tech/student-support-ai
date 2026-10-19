@@ -1,0 +1,31 @@
+{
+  "in_scope": [
+    {"q": "How many days of class can I miss?", "expected": ["Attendance Policy"]},
+    {"q": "When can I sign up for my classes?", "expected": ["Course Registration Process"]},
+    {"q": "How are my marks calculated?", "expected": ["Grading System"]},
+    {"q": "How many books can I take home?", "expected": ["Library Services"]},
+    {"q": "Where do I pay my semester charges?", "expected": ["Fee Payment"]},
+    {"q": "When are the final tests held?", "expected": ["Exam Schedule", "Exam Regulations"]},
+    {"q": "Can I use the computer lab on weekends?", "expected": ["Lab Access", "library lab timings"]},
+    {"q": "Is there a work experience program for students?", "expected": ["Internship Programs", "apply for an internship"]},
+    {"q": "Where can I stay on campus?", "expected": ["Hostel Facilities", "hostel application"]},
+    {"q": "Are there any financial aid options for good students?", "expected": ["Merit and Scholarship", "scholarships available"]},
+    {"q": "I forgot my login for the portal", "expected": ["reset my student portal password"]},
+    {"q": "Who do I talk to for academic help?", "expected": ["contact academic support"]},
+    {"q": "How can I get an official record of my grades?", "expected": ["request a transcript"]},
+    {"q": "I was sick during exams, what proof do I need?", "expected": ["medical certificate"]},
+    {"q": "What happens if I do not pass a subject?", "expected": ["fail a course"]},
+    {"q": "Is copying someone's assignment allowed?", "expected": ["Academic Integrity"]},
+    {"q": "Can I pause my studies for a semester?", "expected": ["Leave of Absence"]},
+    {"q": "What should I wear to college?", "expected": ["Dress Code"]},
+    {"q": "Who teaches the cloud course?", "expected": ["Cloud Computing and AWS"]},
+    {"q": "How do I challenge my grade?", "expected": ["Grade Appeal"]}
+  ],
+  "out_of_scope": [
+    "What is the capital of France?",
+    "Who won the cricket world cup?",
+    "Tell me a joke",
+    "Best biryani near me",
+    "How do I cook pasta?"
+  ]
+}
