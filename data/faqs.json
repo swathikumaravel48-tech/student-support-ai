@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "How do I reset my student portal password?",
+    "answer": "Click 'Forgot Password' on the login page at portal.example.edu. Enter your email address and follow the instructions sent to your registered email. If you don't receive the email, check your spam folder or contact IT support.",
+    "category": "Technical",
+    "helpful_count": 245
+  },
+  {
+    "id": 2,
+    "question": "What is the last day to drop a course?",
+    "answer": "The last day to drop a course without penalty is the end of the 4th week of the semester (typically the Friday of week 4). Dropping after this date may result in a 'W' grade on your transcript.",
+    "category": "Academic",
+    "helpful_count": 189
+  },
+  {
+    "id": 3,
+    "question": "How can I contact academic support?",
+    "answer": "Academic support services are available at the Student Success Center, Room 201 in Building B. You can also email support@example.edu or call 1-800-EXAMPLE ext. 5000. Office hours: Monday-Friday, 9 AM - 5 PM.",
+    "category": "Support",
+    "helpful_count": 312
+  },
+  {
+    "id": 4,
+    "question": "Are there scholarships available for current students?",
+    "answer": "Yes, we offer merit-based and need-based scholarships. Current students can apply for continuation scholarships. Visit the Financial Aid Office (Room 101, Building A) for details. Deadlines typically occur in March and September.",
+    "category": "Financial",
+    "helpful_count": 267
+  },
+  {
+    "id": 5,
+    "question": "What are the library lab timings?",
+    "answer": "The main library lab is open Monday to Friday 8 AM - 8 PM, Saturday 10 AM - 6 PM. Closed on Sundays and college holidays. 24/7 access available with special permission from the librarian.",
+    "category": "Campus",
+    "helpful_count": 156
+  },
+  {
+    "id": 6,
+    "question": "How do I request a transcript?",
+    "answer": "Visit the Registrar's Office (Room 001, Ground Floor). You can request official or unofficial transcripts. Online requests are available at portal.example.edu under 'Academic Records'. Processing time: 3-5 business days.",
+    "category": "Administration",
+    "helpful_count": 201
+  },
+  {
+    "id": 7,
+    "question": "What is the procedure for getting a medical certificate?",
+    "answer": "Visit the college health center with your student ID. The doctor will examine you and issue a medical certificate. For serious illness, you may provide a certificate from an outside hospital. Submit it to your class advisor within 48 hours.",
+    "category": "Support",
+    "helpful_count": 134
+  },
+  {
+    "id": 8,
+    "question": "How can I check my exam results?",
+    "answer": "Exam results are released 2 weeks after the final exam. Check your portal at portal.example.edu under 'Academic Performance'. Results are also sent via email. If you suspect an error, contact the Examination Section within 5 days.",
+    "category": "Academic",
+    "helpful_count": 423
+  },
+  {
+    "id": 9,
+    "question": "Can I take courses from another semester early or late?",
+    "answer": "Special approval from the Academic Dean is required. Submit a petition explaining your reason. Approval depends on course availability and your academic standing. Normally, courses must be taken in the prescribed semester.",
+    "category": "Academic",
+    "helpful_count": 87
+  },
+  {
+    "id": 10,
+    "question": "What should I do if I fail a course?",
+    "answer": "You can retake the course in the next offering. Your new grade replaces the previous one in your GPA calculation. Some courses have prerequisites that you must satisfy. Consult your academic advisor for a retake plan.",
+    "category": "Academic",
+    "helpful_count": 298
+  },
+  {
+    "id": 11,
+    "question": "How do I apply for an internship?",
+    "answer": "Register with the Placement and Internship Office (Room 301, Building A). Maintain a minimum CGPA of 2.5. Internship opportunities are posted on the portal. Apply through the online system. Deadlines vary by company.",
+    "category": "Career",
+    "helpful_count": 215
+  },
+  {
+    "id": 12,
+    "question": "What is the hostel application process?",
+    "answer": "Apply during the hostel registration period (announced via email and portal). Fill the application form and submit along with the hostel fee. Priority is given to students from far distances. Results are announced after verification.",
+    "category": "Campus",
+    "helpful_count": 178
+  }
+]

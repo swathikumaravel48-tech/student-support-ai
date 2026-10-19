@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Course Registration Process",
+    "content": "Students must register for courses during the designated registration period. Visit the student portal at portal.example.edu to select courses. Registration opens on the first Monday of each semester.",
+    "type": "procedure",
+    "category": "Academic",
+    "keywords": ["registration", "course", "select", "enroll"]
+  },
+  {
+    "id": 2,
+    "title": "Attendance Policy",
+    "content": "Students are required to maintain 75% attendance in all courses. Absence exceeding this limit may result in course withdrawal or grade reduction. Medical certificates are required for health-related absences.",
+    "type": "policy",
+    "category": "Academic",
+    "keywords": ["attendance", "absent", "presence", "class"]
+  },
+  {
+    "id": 3,
+    "title": "Grading System",
+    "content": "Grades are calculated based on continuous assessment (30%), mid-term examination (30%), and final examination (40%). Grade points range from 0 to 10. GPA is calculated based on weighted grade points.",
+    "type": "policy",
+    "category": "Academic",
+    "keywords": ["grade", "marks", "score", "exam", "result"]
+  },
+  {
+    "id": 4,
+    "title": "Library Services",
+    "content": "The central library provides 24/7 access to physical and digital resources. Students can borrow up to 5 books at a time for 2 weeks. Digital database access includes journals, e-books, and research papers.",
+    "type": "service",
+    "category": "Campus",
+    "keywords": ["library", "book", "resource", "borrow", "database"]
+  },
+  {
+    "id": 5,
+    "title": "Fee Payment",
+    "content": "Semester fees must be paid before the course registration closes. Payment methods include online portal, bank transfer, and cash payment at the cashier office. Late fee payment incurs a 2% penalty.",
+    "type": "procedure",
+    "category": "Administration",
+    "keywords": ["fee", "payment", "cost", "charge", "tuition"]
+  },
+  {
+    "id": 6,
+    "title": "Exam Schedule",
+    "content": "Exam schedules are released 2 weeks before the start of examinations. Mid-term exams typically occur in week 7-8, while final exams occur after the 15th week. Emergency exam rescheduling requires medical or official documentation.",
+    "type": "procedure",
+    "category": "Academic",
+    "keywords": ["exam", "schedule", "test", "date", "time"]
+  },
+  {
+    "id": 7,
+    "title": "Lab Access",
+    "content": "Computer and science labs are accessible to registered students using their college ID. Lab hours: Monday-Friday 8 AM - 8 PM, Saturday 10 AM - 6 PM. Closed on Sundays and holidays.",
+    "type": "service",
+    "category": "Campus",
+    "keywords": ["lab", "access", "computer", "hours", "facility"]
+  },
+  {
+    "id": 8,
+    "title": "Internship Programs",
+    "content": "The college offers internship opportunities in various industries. Students in their 3rd and 4th years can apply. Internship office: Room 301, Building A. Contact: internship@example.edu",
+    "type": "opportunity",
+    "category": "Career",
+    "keywords": ["internship", "placement", "job", "career", "industry"]
+  },
+  {
+    "id": 9,
+    "title": "Hostel Facilities",
+    "content": "On-campus hostel accommodations are available for students. Separate hostels for boys and girls. Apply during the hostel registration period. Hostel fees are included in or charged separately based on residency.",
+    "type": "service",
+    "category": "Campus",
+    "keywords": ["hostel", "accommodation", "housing", "residence", "dormitory"]
+  },
+  {
+    "id": 10,
+    "title": "Merit and Scholarship Programs",
+    "content": "The college offers merit-based scholarships for students with excellent academic performance and need-based scholarships for financially disadvantaged students. Apply through the financial aid office before the deadline.",
+    "type": "opportunity",
+    "category": "Financial",
+    "keywords": ["scholarship", "merit", "financial aid", "funds", "grant"]
+  }
+]

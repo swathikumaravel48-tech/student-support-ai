@@ -1,0 +1,129 @@
+{
+  "python": {
+    "code": "CS101",
+    "title": "Python Programming Fundamentals",
+    "semester": "1",
+    "credits": 3,
+    "instructor": "Dr. John Doe",
+    "email": "john.doe@example.edu",
+    "office": "Room 305, Building C",
+    "office_hours": "Monday & Wednesday 2-4 PM",
+    "textbook": "Python Crash Course by Eric Matthes",
+    "topics": [
+      "Variables and Data Types",
+      "Control Flow (if-else, loops)",
+      "Functions and Modules",
+      "Data Structures (lists, tuples, dictionaries)",
+      "File Handling and I/O",
+      "Object-Oriented Programming Basics"
+    ],
+    "assessment": {
+      "assignments": "30%",
+      "mid_term": "30%",
+      "final_exam": "40%"
+    },
+    "grading": "A: 90-100, B: 80-89, C: 70-79, D: 60-69, F: <60"
+  },
+  "web_development": {
+    "code": "CS201",
+    "title": "Web Development with React",
+    "semester": "3",
+    "credits": 3,
+    "instructor": "Prof. Jane Smith",
+    "email": "jane.smith@example.edu",
+    "office": "Room 310, Building C",
+    "office_hours": "Tuesday & Thursday 1-3 PM",
+    "textbook": "React: The Complete Guide by Maximilian Schwarzmüller",
+    "topics": [
+      "HTML5 and CSS3 Fundamentals",
+      "JavaScript ES6+",
+      "React Components and Hooks",
+      "State Management and Redux",
+      "API Integration and Fetch",
+      "Deployment on Netlify/Vercel"
+    ],
+    "assessment": {
+      "projects": "40%",
+      "quizzes": "20%",
+      "final_project": "40%"
+    },
+    "grading": "A: 90-100, B: 80-89, C: 70-79, D: 60-69, F: <60"
+  },
+  "database": {
+    "code": "CS202",
+    "title": "Database Systems and SQL",
+    "semester": "2",
+    "credits": 3,
+    "instructor": "Dr. Mike Johnson",
+    "email": "mike.johnson@example.edu",
+    "office": "Room 320, Building D",
+    "office_hours": "Monday & Friday 11-1 PM",
+    "textbook": "Fundamentals of Database Systems by Ramez Elmasri",
+    "topics": [
+      "Relational Database Concepts",
+      "SQL Queries and Joins",
+      "Database Normalization",
+      "Indexing and Query Optimization",
+      "Transactions and ACID Properties",
+      "Introduction to NoSQL Databases"
+    ],
+    "assessment": {
+      "assignments": "25%",
+      "mid_term": "25%",
+      "final_exam": "25%",
+      "project": "25%"
+    },
+    "grading": "A: 90-100, B: 80-89, C: 70-79, D: 60-69, F: <60"
+  },
+  "cloud_computing": {
+    "code": "CS303",
+    "title": "Cloud Computing and AWS",
+    "semester": "4",
+    "credits": 3,
+    "instructor": "Prof. Sarah Williams",
+    "email": "sarah.williams@example.edu",
+    "office": "Room 315, Building D",
+    "office_hours": "Wednesday & Thursday 3-5 PM",
+    "textbook": "AWS Certified Solutions Architect Study Guide",
+    "topics": [
+      "Cloud Computing Fundamentals",
+      "AWS EC2 and Networking",
+      "AWS S3 and Storage",
+      "RDS and Database Services",
+      "Lambda and Serverless Computing",
+      "Cloud Security and IAM"
+    ],
+    "assessment": {
+      "assignments": "30%",
+      "mid_term": "30%",
+      "capstone_project": "40%"
+    },
+    "grading": "A: 90-100, B: 80-89, C: 70-79, D: 60-69, F: <60"
+  },
+  "data_science": {
+    "code": "CS401",
+    "title": "Data Science and Machine Learning",
+    "semester": "5",
+    "credits": 3,
+    "instructor": "Dr. Robert Chen",
+    "email": "robert.chen@example.edu",
+    "office": "Room 401, Building E",
+    "office_hours": "Tuesday & Thursday 4-6 PM",
+    "textbook": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "topics": [
+      "Data Preprocessing and Cleaning",
+      "Exploratory Data Analysis",
+      "Supervised Learning Algorithms",
+      "Unsupervised Learning and Clustering",
+      "Neural Networks and Deep Learning",
+      "Model Evaluation and Hyperparameter Tuning"
+    ],
+    "assessment": {
+      "assignments": "25%",
+      "mid_term": "25%",
+      "final_exam": "25%",
+      "capstone_project": "25%"
+    },
+    "grading": "A: 90-100, B: 80-89, C: 70-79, D: 60-69, F: <60"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Academic Integrity Policy",
+    "content": "All students must adhere to the highest standards of academic integrity. Plagiarism, cheating, unauthorized collaboration, and academic dishonesty are strictly prohibited. Violations will result in disciplinary action ranging from course failure to expulsion.",
+    "effective_date": "2024-01-01",
+    "category": "Academic"
+  },
+  {
+    "id": 2,
+    "title": "Code of Conduct",
+    "content": "Students are expected to maintain professional and respectful behavior on and off campus. This includes respecting others' rights, following college rules, and maintaining a positive college environment. Violation of the code of conduct may result in disciplinary action.",
+    "effective_date": "2024-01-01",
+    "category": "Conduct"
+  },
+  {
+    "id": 3,
+    "title": "Anti-Harassment and Anti-Discrimination Policy",
+    "content": "The institution has zero tolerance for harassment, discrimination, bullying, and sexual misconduct. All incidents must be reported to the Student Conduct Office. Confidential support services are available at the Counseling Center.",
+    "effective_date": "2024-01-01",
+    "category": "Safety"
+  },
+  {
+    "id": 4,
+    "title": "Leave of Absence Policy",
+    "content": "Students may apply for a leave of absence (LOA) for up to 2 consecutive semesters. Medical, personal, or family emergencies are valid reasons. Submit the application to the Dean's office with supporting documentation.",
+    "effective_date": "2024-01-01",
+    "category": "Academic"
+  },
+  {
+    "id": 5,
+    "title": "Dress Code and Campus Attire",
+    "content": "Students are expected to dress appropriately for campus. Classroom attire should be professional. During examinations and official events, formal dress is recommended. Disruptive attire may result in being asked to leave the campus.",
+    "effective_date": "2024-01-01",
+    "category": "Conduct"
+  },
+  {
+    "id": 6,
+    "title": "Use of Substance Policy",
+    "content": "The use, possession, or distribution of illegal drugs and alcohol on campus is strictly prohibited. Violators will face serious disciplinary action up to expulsion. Support services are available for students struggling with substance abuse.",
+    "effective_date": "2024-01-01",
+    "category": "Safety"
+  },
+  {
+    "id": 7,
+    "title": "Campus Safety and Security",
+    "content": "All students must comply with campus security regulations. Unauthorized access to restricted areas is prohibited. Report any suspicious activity to campus security immediately. Emergency hotline: 911 (Police) or 1-800-CAMPUS-9.",
+    "effective_date": "2024-01-01",
+    "category": "Safety"
+  },
+  {
+    "id": 8,
+    "title": "Fee Payment and Refund Policy",
+    "content": "Tuition and fees must be paid by the deadline specified in the academic calendar. Late payment incurs a 2% penalty. Refunds are issued if withdrawn within the first two weeks of the semester (80% refund) or up to 4 weeks (50% refund).",
+    "effective_date": "2024-01-01",
+    "category": "Financial"
+  },
+  {
+    "id": 9,
+    "title": "Grade Appeal Policy",
+    "content": "Students may appeal a grade within 5 days of receiving the result. Submit a written appeal to the course instructor with supporting evidence. If unresolved, escalate to the Department Head and then the Dean.",
+    "effective_date": "2024-01-01",
+    "category": "Academic"
+  },
+  {
+    "id": 10,
+    "title": "Exam Regulations",
+    "content": "Cheating in exams will result in automatic course failure and possible suspension. Students must bring valid ID to exams. Mobile phones and unauthorized materials are prohibited. Exam hall rules are strictly enforced.",
+    "effective_date": "2024-01-01",
+    "category": "Academic"
+  }
+]
